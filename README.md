@@ -49,8 +49,8 @@ Evaluate the model with the testing data.
 
 ## PROGRAM:
 ```
-Developed by : Manoj .M
-Reg.no : 212221240027
+Developed by : Sri Harikrishnan R
+Reg.no : 212219040150
 Program to develop a neural network regression model..
 
 ### To Read CSV file from Google Drive :
